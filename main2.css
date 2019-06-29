@@ -1,0 +1,75 @@
+body, html {
+    height: 100%;
+    margin:0;
+    padding:0;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.header {
+    font-family: "dungeon", sans-serif;
+    text-align: center;
+}
+
+
+nav {
+    border-bottom-color: #fff;
+    border-bottom-width: 5px;
+    border-top-style: solid;
+    border-top-color: #fff;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border: 3px solid #fff;
+    font-family: "dungeon", sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    background-color: #fff;
+    margin:0;
+    padding:0;
+}
+
+nav li {
+    font-size:1.2em;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    margin:0;
+    width: 15.00%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+}
+
+nav a:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.borderclass {
+    float: left;
+    height: 50px;
+    width:100%;
+    border: 3px solid black;
+}
+
+h2 {
+    border-bottom-style: solid;
+    border-bottom-color: blue;
+}
+
+.navdiv {
+    border-bottom-color: #fff;
+    border-bottom-width: 5px;
+    border-top-style: solid;
+    border-top-color: #fff;
+    border-top-width: 5px;
+    border-top-style: solid;
+}

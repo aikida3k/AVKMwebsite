@@ -1,0 +1,30 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+
+nav {
+    margin:0;
+    padding:0;
+    width:100%;
+    height: 50px;
+    border: 5px #000;
+    font-family: "dungeon", sans-serif;
+}
+
+nav span {
+    width:16.67%;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+}
+
+nav a:hover {
+    background-color:#fff;
+    color: #000;
+}
